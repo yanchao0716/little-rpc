@@ -1,2 +1,2 @@
 # little-rpc
-简单RPC实现
+RPC简单实现
